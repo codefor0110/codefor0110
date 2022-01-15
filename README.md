@@ -1,15 +1,13 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@mishrak85-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mishrak85)](https://twitter.com/mishrak85) [![Linkedin Badge](https://img.shields.io/badge/-sarthakmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-mishra-206a41116/)](https://www.linkedin.com/in/sarthak-mishra-206a41116/)
 [![Gmail Badge](https://img.shields.io/badge/-mishrak85@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mishrak85@gmail.com)](mailto:mishrak85@gmail.com)
 
-- 👋 Hi, I’m @codefor0110
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sarthak Mishra
+- 👀 I’m interested in Mobile Application Development
+- 📫 Reach me at mishrak85@gmail.com
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
